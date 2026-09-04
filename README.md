@@ -57,7 +57,7 @@ Atualmente desenvolvo projetos e APIs utilizando Node.js, NestJS, TypeScript e A
 | Badge | Conquista / Descrição |
 | :---: | :--- |
 | <a href="https://www.credly.com/badges/ead2777b-d00b-47ec-b4ea-35fb638b4fd4/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" alt="AWS Cloud Practitioner"/></a> | ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** |
-| <a href="https://www.credly.com/badges/cd94a66f-86fd-4f6d-82bc-26035bf28215/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" width="90" alt="AWS Student Builder Leader"/></a> | 🤝 **AWS Student Builder Campus Leader (SBCL) & SBGL**<br>Programas de liderança estudantil em cloud da AWS |
+| <a href="https://www.credly.com/badges/cd94a66f-86fd-4f6d-82bc-26035bf28215/public_url" target="_blank"><img src="https://images.credly.com/size/110x110/images/1e8d730b-58fc-48b8-be32-cc8758f90229/blob" width="90" alt="AWS Student Builder Leader"/></a> | 🤝 **AWS Student Builder Group Leader - SBGL**<br>Programa de liderança estudantil em cloud da AWS |
 | 🎓 | **Bolsista Compass UOL** (5 meses, trilha Node.js + Cloud)<br>Programa de formação prática com foco em microsserviços e ecossistema AWS |
 
 ---
