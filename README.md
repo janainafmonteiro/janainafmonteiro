@@ -45,7 +45,7 @@ Atualmente desenvolvo projetos e APIs utilizando Node.js, NestJS, TypeScript e A
 * **Tecnologias:** NestJS · TypeScript · Prisma · PostgreSQL · JWT
 * **Escopo:** Projeto em equipe (4 devs)
 
-### 🎮 [Draft LOL Predict](https://github.com/lucasreis-data/Draft-LOL-Predict)
+### 🎮 [Draft LOL Predict]
 * **O que faz:** Simulador de draft (picks & bans) de League of Legends com sugestões de campeões via modelo de IA treinado com dados de partidas profissionais.
 * **Tecnologias:** Java · Spring Boot · React · Python · FastAPI · scikit-learn
 * **Escopo:** Projeto em dupla
